@@ -1,6 +1,6 @@
 Integration tests for Simple Filter
 -------------------------------------
-Here are a microservice project which have to be cloned.
+Here is a microservice project which have to be cloned.
 
 Microservice: ```git clone https://github.com/bokivaol/api.git```
 
